@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-image: url("images/wallpaper.jpg");
+  background-image: url("../images/wallpaper.jpg");
   background-position: center;
   background-size: fill;
   background-color: rgb(204, 204, 204);
@@ -50,6 +50,6 @@ body button {
 #canvas {
   border: 4px solid black;
   border-radius: 10px;
-  background-image: url("images/parkingLot.png");
+  background-image: url("../images/parkingLot2.png");
   background-size: cover;
 }
